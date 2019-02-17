@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
  * @author yakax
  * @date 2019/1/31
  */
-public class test {
+public class Test {
     public static void main(String[] args) {
         // 被代理对象
         Me me = new Me();

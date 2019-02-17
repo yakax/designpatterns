@@ -1,4 +1,4 @@
-package com.example.designpatterns.strategyMode;
+package com.example.designpatterns.strategymode;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.example.designpatterns.strategyMode;
+package com.example.designpatterns.strategymode;
 
 /**
  * @author yakax

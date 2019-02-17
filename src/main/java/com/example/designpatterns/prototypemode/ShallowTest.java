@@ -1,4 +1,4 @@
-package com.example.designpatterns.prototypeMode;
+package com.example.designpatterns.prototypemode;
 
 /**
  * @author yakax
