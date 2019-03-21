@@ -9,9 +9,9 @@ import lombok.extern.slf4j.Slf4j;
  * <p>@AUTHOR: YAKAX</p>
  */
 @Slf4j
-public class ProgrammerA implements Action {
+public class ProgrammerB implements Action {
     @Override
     public void doing(String command) {
-        log.info("我是码农a：我开始工作" + command);
+        log.info("我是码农B：我开始工作" + command);
     }
 }
